@@ -1,1 +1,1 @@
-# -CodeAlpha_CreditScoringModel-
+# CodeAlpha_CreditScoringModel-
